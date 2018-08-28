@@ -1,5 +1,5 @@
 # js-xml2json-parser
-A Simple Node project to demonstrate Xml parser to JSON.
+A Simple Node project to demonstrate converting from XML to JSON.
 
 
 1 - Clone the project<br />
